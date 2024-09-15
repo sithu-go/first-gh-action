@@ -9,4 +9,4 @@ jobs:
       - name: list files
         run: ls -la
       - name: check go version
-        run: go --version
+        run: go version
