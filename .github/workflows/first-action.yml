@@ -6,5 +6,3 @@ jobs:
     steps:
       - name: Print greeting
         run: echo "Hello github actions!"
-      - name: Check file list
-        run: ls -la
