@@ -10,3 +10,5 @@ jobs:
         run: ls -la
       - name: check go version
         run: go version
+      - name: check node version
+        run: node --version
